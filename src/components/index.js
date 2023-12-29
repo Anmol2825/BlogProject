@@ -8,6 +8,7 @@ import Input from './Input';
 import RTE from './RTE';
 import Signup from './Signup';
 import Login from './Login';
+import AuthLayout from './AuthLayout';
 
 export {
   Header,
@@ -20,4 +21,5 @@ export {
   RTE,
   Signup,
   Login,
+  AuthLayout,
 };
