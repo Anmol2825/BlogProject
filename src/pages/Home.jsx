@@ -20,7 +20,17 @@ function Home() {
           <div className="flex flex-wrap">
             <div className="p-2 w-full">
               <h1 className="text-2xl font-bold hover:text-gray-500">
-                Login to read posts
+                <div>
+                  <img
+                    src="https://www.shutterstock.com/image-photo/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.jpg"
+                    alt="Logo"
+                    style={{
+                      width: '100%',
+                      height: '500px',
+                      objectFit: 'cover',
+                    }}
+                  />
+                </div>
               </h1>
             </div>
           </div>
